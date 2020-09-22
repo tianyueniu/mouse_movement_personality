@@ -5,7 +5,7 @@ In this rapidly digitalizing world, the need to understand users better in order
 
 The data used in this research came from two original studies from the Environmental Neuroscience Lab of the University of Chicago. The first study is a preference-based image rating task. In each trial, participants were asked to look at 12 photos of streets taken at different angles, and pick four images that she or he liked or disliked the most. The second study comes from a similar street psychology project, which also asks participants to select 4 out of 12  street view pictures. The only difference is the selection criteria used. In the second study, participants were asked to select four pictures that include the highest level of a given feature, such as perceived walkability, perceived level of human activity,  perceived order,  or perceived visual diversity, etc. 
 
-![Instruction page for participants](https://octodex.github.com/images/yaktocat.png)
+![Instruction page for participants](https://github.com/tianyueniu/mouse_movement_personality/blob/master/AMT_instructions.png)
 
 All participants were recruited from Amazon Mechanical Turk. 
 
