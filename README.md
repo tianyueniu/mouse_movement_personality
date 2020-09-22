@@ -1,5 +1,5 @@
 # Mouse trajectories are reflective of personality  
-**Regression analysis of cursor movement features and personality traits.**
+**Regression analysis of cursor movement features and personality traits**
 
 In this rapidly digitalizing world, the need to understand users better in order to best cater to their demand is also growing. A cost-effective way to conduct user experience research is to examine user’s mouse movement data. This research examines the approach to infer personality from mouse trajectories. Regression and correlation analyses were performed to examine the relationships between cursor movement features, such as pauses, reconsideration, and cursor speed, and Big Five personality traits. Significant correlations and regression coefficients were found in the analyses. These results validate the feasibility of using mouse movement data to predict personality. Findings in this research can be extended to further evaluate the relationship between cursor features and personality traits. The method presented here can also be applied to detect other internal states, such as inattentiveness and emotional state, in related future work.
 
