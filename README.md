@@ -8,6 +8,6 @@ The data used in this research came from two original studies from the Environme
 
 ![Instruction page for participants](https://github.com/tianyueniu/mouse_movement_personality/blob/master/AMT_instructions.png)
 
-All participants for these two studies were recruited from Amazon Mechanical Turk. For privacy purposes, participants worker ID have been changed/removed. Some of the exact steps taken in data wrangling are not included in the google colab notebook for the same reason. 
+All participants for these two studies were recruited from Amazon Mechanical Turk. **For privacy purposes, participants worker ID have been changed/removed**. Some of the exact steps taken in data wrangling are not included in the google colab notebook for the same reason. 
 
 
